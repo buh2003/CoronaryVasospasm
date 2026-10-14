@@ -1,0 +1,23 @@
+merged_type,is_mural,call,n_entries,sources,ratios,min_detected_cells
+T cell,False,B,2,"PlaqueAtlas:T cell; TabulaSapiens:CD8-positive, alpha-beta T cell",13; 1.5,0.9999999999999883
+adipocyte,False,B,1,HeartMap:adipocyte,2.473,190.99999999999997
+arterial endothelial cell,False,B,1,TabulaSapiens:endothelial cell of artery,56.17,3.0
+atrial cardiomyocyte,True,A,1,HeartMap:regular atrial cardiac myocyte,0.005125,83.99999999999999
+capillary endothelial cell,False,B,1,TabulaSapiens:capillary endothelial cell,40.68,19.000000000000004
+cardiac neuron,False,B,1,HeartMap:cardiac neuron,3.25,215.99999999999997
+dendritic cell,False,B,1,PlaqueAtlas:dendritic cell,2,1.0
+endocardial cell,False,B,1,HeartMap:endocardial cell,15.95,114.0
+endothelial cell (general),False,B,3,HeartMap:cardiac endothelial cell; PlaqueAtlas:endothelial cell; TabulaSapiens:endothelial cell,32.06; 56.71; 78.01,7.0
+fibroblast,False,B,3,HeartMap:fibroblast of cardiac tissue; PlaqueAtlas:fibroblast; TabulaSapiens:fibroblast,3.58; 11.42; 15.99,49.0
+lymphatic endothelial cell,False,B,1,HeartMap:endothelial cell of lymphatic vessel,7.756,122.00000000000001
+lymphocyte (unspecified),False,B,1,HeartMap:lymphocyte,1.175,35.0
+macrophage,False,B,3,HeartMap:macrophage; PlaqueAtlas:macrophage; TabulaSapiens:macrophage,3.899; 15; 18.66,6.0
+mast cell,False,A,1,HeartMap:mast cell,0.9736,448.0
+mesothelial cell,False,A,1,HeartMap:mesothelial cell of epicardium,0.2145,44.99999999999998
+monocyte,False,B,2,PlaqueAtlas:monocyte; TabulaSapiens:monocyte,41.5; 8.667,1.0
+pericyte,True,A,2,HeartMap:pericyte; TabulaSapiens:pericyte,0.5097; 0.5968,425.00000000000006
+plasma cell,False,B,1,PlaqueAtlas:plasma cell,1.8,5.0
+smooth muscle cell,True,A,3,HeartMap:vascular associated smooth muscle cell; PlaqueAtlas:smooth muscle cell; TabulaSapiens:smooth muscle cell,0.3077; 0.8951; 0.09147,177.0
+unannotated,False,B,1,HeartMap:cell,2.553,470.0
+vein endothelial cell,False,B,1,TabulaSapiens:vein endothelial cell,41.37,5.0
+ventricular cardiomyocyte,True,A,1,HeartMap:regular ventricular cardiac myocyte,0.01227,28.000000000000004

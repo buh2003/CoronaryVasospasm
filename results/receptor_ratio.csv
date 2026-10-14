@@ -1,0 +1,10 @@
+group,sample,etb_eta_fold_linear
+patient,1,14.299999999999999
+patient,2a,22.571428571428573
+patient,3,4.4
+healthy,hSCG_healthy1,5.279858433199959
+healthy,hSCG_healthy2,20.60767547457493
+healthy,hSCG_healthy3,15.519152963815932
+disease,hSCG_diseased1,6.34278333507217
+disease,hSCG_diseased2,22.17705613312357
+disease,hSCG_diseased3,19.90101729766093

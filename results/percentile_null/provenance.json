@@ -1,0 +1,26 @@
+{
+ "n_probe_genes": 581,
+ "n_libraries": 9,
+ "null_mean_percentile": 47.31788984341853,
+ "null_median_percentile": 46.0,
+ "abundance_trend_spearman_rho": 0.29696969696969694,
+ "abundance_trend_p": 0.40470167127015694,
+ "receptor_deciles": {
+  "EDNRB": 8,
+  "EDNRA": 5
+ },
+ "params": {
+  "n_matched": 300,
+  "ab_tol": 0.5,
+  "len_tol": 0.5,
+  "n_probe": 600,
+  "seed": 0
+ },
+ "checks": {
+  "probe genes produced matched sets": true,
+  "null is centered within 5 points of 50": true,
+  "no abundance trend in the null (|rho| < 0.6)": true,
+  "both receptors scored": true,
+  "every library represented": true
+ }
+}

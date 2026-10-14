@@ -1,0 +1,41 @@
+lineage_group,cell_type,dataset,dataset_detail,source_label_in_that_dataset,n_cells,n_cells_note,pct_detecting_EDNRB,pct_detecting_EDNRA,n_detecting_EDNRB,n_detecting_EDNRA,ratio_EDNRB_over_EDNRA,call,n_datasets_for_this_cell_type,median_ratio_across_datasets,min_ratio,max_ratio,fold_spread_across_datasets
+Endothelial,Endothelial cell,Heart,"HeartMap, subsampled count",cardiac endothelial cell,6935,subsampled,8.8536,0.4037,614,28,32.0574,EDNRB-weighted,3,56.7143,32.0574,78.0139,2.43
+Endothelial,Endothelial cell,Coronary,"Plaque atlas coronary subset, full annotated count",endothelial cell,1839,annotated count,12.6156,0.3806,232,7,56.7143,EDNRB-weighted,3,56.7143,32.0574,78.0139,2.43
+Endothelial,Endothelial cell,Vasculature,"Tabula Sapiens vasculature, full annotated count",endothelial cell,260,annotated count,37.3077,3.8462,97,10,78.0139,EDNRB-weighted,3,56.7143,32.0574,78.0139,2.43
+Endothelial,Arterial endothelial cell,Vasculature,"Tabula Sapiens vasculature, full annotated count",endothelial cell of artery,380,annotated count,18.1579,0.7895,69,3,56.1667,EDNRB-weighted,1,56.1667,56.1667,56.1667,1.0
+Endothelial,Vein endothelial cell,Vasculature,"Tabula Sapiens vasculature, full annotated count",vein endothelial cell,733,annotated count,24.1473,0.6821,177,5,41.375,EDNRB-weighted,1,41.375,41.375,41.375,1.0
+Endothelial,Capillary endothelial cell,Vasculature,"Tabula Sapiens vasculature, full annotated count",capillary endothelial cell,1083,annotated count,28.9935,1.7544,314,19,40.6765,EDNRB-weighted,1,40.6765,40.6765,40.6765,1.0
+Endothelial,Endocardial cell,Heart,"HeartMap, subsampled count",endocardial cell,6935,subsampled,18.9474,1.6438,1314,114,15.947,EDNRB-weighted,1,15.947,15.947,15.947,1.0
+Endothelial,Endothelial (ganglion),Ganglion,"GSE241386, full annotated count",endothelial,2877,annotated count,15.4327,2.155,444,62,9.7647,EDNRB-weighted,1,9.7647,9.7647,9.7647,1.0
+Endothelial,Lymphatic endothelial cell,Heart,"HeartMap, subsampled count",endothelial cell of lymphatic vessel,6934,subsampled,12.893,1.7594,894,122,7.7561,EDNRB-weighted,1,7.7561,7.7561,7.7561,1.0
+Immune,Monocyte,Coronary,"Plaque atlas coronary subset, full annotated count",monocyte,547,annotated count,9.5064,0.3656,52,2,41.5,EDNRB-weighted,2,25.0833,8.6667,41.5,4.79
+Immune,Monocyte,Vasculature,"Tabula Sapiens vasculature, full annotated count",monocyte,210,annotated count,9.5238,0.4762,20,1,8.6667,EDNRB-weighted,2,25.0833,8.6667,41.5,4.79
+Immune,Macrophage,Heart,"HeartMap, subsampled count",macrophage,6935,subsampled,1.0959,0.2451,76,17,3.8988,EDNRB-weighted,3,15.0,3.8988,18.6604,4.79
+Immune,Macrophage,Coronary,"Plaque atlas coronary subset, full annotated count",macrophage,1885,annotated count,4.3501,0.3183,82,6,15.0,EDNRB-weighted,3,15.0,3.8988,18.6604,4.79
+Immune,Macrophage,Vasculature,"Tabula Sapiens vasculature, full annotated count",macrophage,2566,annotated count,18.94,1.9096,486,49,18.6604,EDNRB-weighted,3,15.0,3.8988,18.6604,4.79
+Immune,Myeloid / immune,Ganglion,"GSE241386, full annotated count",myeloid / immune,416,annotated count,8.4135,0.7212,35,3,15,EDNRB-weighted,1,15.0,15.0,15.0,1.0
+Immune,T cell,Coronary,"Plaque atlas coronary subset, full annotated count",T cell,22773,annotated count,0.0571,0.0044,13,1,13,EDNRB-weighted,2,7.25,1.5,13.0,8.67
+Immune,T cell,Vasculature,"Tabula Sapiens vasculature, full annotated count","CD8-positive, alpha-beta T cell",416,annotated count,0.7212,0.4808,3,2,1.5,EDNRB-weighted,2,7.25,1.5,13.0,8.67
+Immune,Dendritic cell,Coronary,"Plaque atlas coronary subset, full annotated count",dendritic cell,223,annotated count,0.8969,0.4484,2,1,2,EDNRB-weighted,1,2.0,2.0,2.0,1.0
+Immune,Plasma cell,Coronary,"Plaque atlas coronary subset, full annotated count",plasma cell,528,annotated count,1.1364,0.947,6,5,1.8,EDNRB-weighted,1,1.8,1.8,1.8,1.0
+Immune,Lymphocyte,Heart,"HeartMap, subsampled count",lymphocyte,6935,subsampled,0.62,0.5047,43,35,1.175,EDNRB-weighted,1,1.175,1.175,1.175,1.0
+Immune,Mast cell,Heart,"HeartMap, subsampled count",mast cell,6934,subsampled,6.4609,7.3695,448,511,0.9736,EDNRA-weighted,1,0.9736,0.9736,0.9736,1.0
+Stromal,Fibroblast,Ganglion,"GSE241386, full annotated count",fibroblast,4278,annotated count,12.6461,7.1996,541,308,1.8844,EDNRB-weighted,4,7.4973,1.8844,15.9927,8.49
+Stromal,Fibroblast,Heart,"HeartMap, subsampled count",fibroblast of cardiac tissue,6935,subsampled,14.5205,4.0952,1007,284,3.5795,EDNRB-weighted,4,7.4973,1.8844,15.9927,8.49
+Stromal,Fibroblast,Coronary,"Plaque atlas coronary subset, full annotated count",fibroblast,2500,annotated count,14.76,1.96,369,49,11.4151,EDNRB-weighted,4,7.4973,1.8844,15.9927,8.49
+Stromal,Fibroblast,Vasculature,"Tabula Sapiens vasculature, full annotated count",fibroblast,3530,annotated count,49.0652,10.1983,1732,360,15.9927,EDNRB-weighted,4,7.4973,1.8844,15.9927,8.49
+Stromal,Adipocyte,Ganglion,"GSE241386, full annotated count",adipocyte,65,annotated count,4.6154,1.5385,3,1,3,EDNRB-weighted,2,2.7363,2.4727,3.0,1.21
+Stromal,Adipocyte,Heart,"HeartMap, subsampled count",adipocyte,6934,subsampled,7.6579,2.7545,531,191,2.4727,EDNRB-weighted,2,2.7363,2.4727,3.0,1.21
+Neural / glial,Satellite glia / Schwann,Ganglion,"GSE241386, full annotated count",glial (satellite / Schwann),9136,annotated count,17.3489,3.3603,1585,307,6.1806,EDNRB-weighted,1,6.1806,6.1806,6.1806,1.0
+Neural / glial,Cardiac neuron,Heart,"HeartMap, subsampled count",cardiac neuron,6935,subsampled,9.8486,3.1146,683,216,3.2504,EDNRB-weighted,1,3.2504,3.2504,3.2504,1.0
+Neural / glial,Sympathetic neuron,Ganglion,"GSE241386, full annotated count",sympathetic neuron,468,annotated count,8.1197,4.0598,38,19,1.8065,EDNRB-weighted,1,1.8065,1.8065,1.8065,1.0
+Other,Unannotated,Heart,"HeartMap, subsampled count",cell,6934,subsampled,17.2628,6.7782,1197,470,2.5525,EDNRB-weighted,1,2.5525,2.5525,2.5525,1.0
+Other,Mesothelial cell,Heart,"HeartMap, subsampled count",mesothelial cell of epicardium,2914,subsampled,1.5443,6.1428,45,179,0.2145,EDNRA-weighted,1,0.2145,0.2145,0.2145,1.0
+Mural / contractile,Pericyte,Heart,"HeartMap, subsampled count",pericyte,6935,subsampled,18.9185,32.9056,1312,2282,0.5097,EDNRA-weighted,2,0.5533,0.5097,0.5968,1.17
+Mural / contractile,Pericyte,Vasculature,"Tabula Sapiens vasculature, full annotated count",pericyte,616,annotated count,68.9935,87.1753,425,537,0.5968,EDNRA-weighted,2,0.5533,0.5097,0.5968,1.17
+Mural / contractile,Smooth muscle cell,Heart,"HeartMap, subsampled count",vascular associated smooth muscle cell,6935,subsampled,14.0447,36.15,974,2507,0.3077,EDNRA-weighted,3,0.3077,0.0915,0.8951,9.79
+Mural / contractile,Smooth muscle cell,Coronary,"Plaque atlas coronary subset, full annotated count",smooth muscle cell,3169,annotated count,11.5809,16.1881,367,513,0.8951,EDNRA-weighted,3,0.3077,0.0915,0.8951,9.79
+Mural / contractile,Smooth muscle cell,Vasculature,"Tabula Sapiens vasculature, full annotated count",smooth muscle cell,2888,annotated count,6.1288,50.7964,177,1467,0.0915,EDNRA-weighted,3,0.3077,0.0915,0.8951,9.79
+Mural / contractile,Mural (SMC / pericyte),Ganglion,"GSE241386, full annotated count",mural (SMC / pericyte),638,annotated count,11.2853,38.0878,72,243,0.2058,EDNRA-weighted,1,0.2058,0.2058,0.2058,1.0
+Mural / contractile,Ventricular cardiomyocyte,Heart,"HeartMap, subsampled count",regular ventricular cardiac myocyte,6935,subsampled,0.4037,27.0512,28,1876,0.0123,EDNRA-weighted,1,0.0123,0.0123,0.0123,1.0
+Mural / contractile,Atrial cardiomyocyte,Heart,"HeartMap, subsampled count",regular atrial cardiac myocyte,6935,subsampled,1.2112,54.1889,84,3758,0.0051,EDNRA-weighted,1,0.0051,0.0051,0.0051,1.0

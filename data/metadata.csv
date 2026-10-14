@@ -1,0 +1,5 @@
+sample_id,tissue,laterality,patient,collection_year,surgery_type,notes,exclude,exclude_reason
+1,sympathetic_ganglia,unknown,P001,2026,sympathectomy,Stellate or thoracic sympathetic; treat uniformly as sympathetic ganglia,FALSE,
+2a,sympathetic_ganglia,unknown,P001,2026,sympathectomy,Stellate or thoracic sympathetic; treat uniformly as sympathetic ganglia,FALSE,
+2b,sympathetic_ganglia,unknown,P001,2026,sympathectomy,Stellate or thoracic sympathetic; treat uniformly as sympathetic ganglia,TRUE,Non-neuronal biopsy: TH/DBH/PHOX2B depleted 32-128x vs other samples; ACTA2/MYH11/TAGLN elevated; vascular smooth muscle or connective tissue contaminant
+3,sympathetic_ganglia,unknown,P001,2026,sympathectomy,Stellate or thoracic sympathetic; treat uniformly as sympathetic ganglia,FALSE,
